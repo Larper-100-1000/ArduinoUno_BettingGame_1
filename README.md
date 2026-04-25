@@ -29,3 +29,6 @@ Challenges:
 Future improvements:
 - better wiring (soldering & better planning)
 - Unnecessary pin usage
+
+Future plans:
+- Custom PCB or protoboard
